@@ -1,0 +1,9 @@
+====== Urutan membuat web fortofolio ======
+
+== menyiapkan lingkungan pengembangan
+- lampTermux (github)
+
+== membuat frontend
+- link youtube : https://youtu.be/wFh0SJVDM9E
+    terakhir 
+    menit 43:51
